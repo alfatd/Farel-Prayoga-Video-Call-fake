@@ -150,7 +150,7 @@
     
     "menu" : [
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "Guide Tips",
             "ico" : "",
             "bg" : "#FB923C"
@@ -180,7 +180,7 @@
             "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
             "bg" : "#4ADE80"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "wallpapers",
             "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
             "bg" : "#2196F3"
@@ -195,7 +195,7 @@
             "ico" : "https://raw.githubusercontent.com/alfatd/Garten-Chef-Pigster-banban-3/main/calls.png",
             "bg" : "#3F51B5"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "games",
             "ico" : "https://img.icons8.com/ios/130/ffffff/emu4ios.png",
             "bg" : "#673AB7"
